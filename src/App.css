@@ -1,0 +1,10 @@
+.scroll-none::-webkit-scrollbar {
+    display: none;
+}
+#chat{
+    position: relative;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
